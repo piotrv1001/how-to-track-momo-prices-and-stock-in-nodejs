@@ -1,0 +1,28 @@
+[
+  {
+    "goodsCode": "11663033",
+    "url": "https://www.momoshop.com.tw/product/11663033",
+    "name": "【dyson 戴森】V12 SV46 Detect Slim Fluffy Total Clean 強勁輕量智慧無線吸塵器 MO獨家升級版 (雙主吸頭)",
+    "price": 17900,
+    "originalPrice": 24900,
+    "currency": "TWD",
+    "stock": 303,
+    "promotion": "滿1件且滿10000折1000",
+    "rating": 4.8,
+    "reviewCount": 104,
+    "salesVolume": "總銷量>500"
+  },
+  {
+    "goodsCode": "14931844",
+    "url": "https://www.momoshop.com.tw/product/14931844",
+    "name": "【dyson 戴森】限量福利品 V12 Detect Slim Fluffy SV46 強勁輕量智慧無線吸塵器 光學偵測",
+    "price": 12999,
+    "originalPrice": 24900,
+    "currency": "TWD",
+    "stock": 22,
+    "promotion": "滿1件且滿10000折500",
+    "rating": 4.6,
+    "reviewCount": 20,
+    "salesVolume": "總銷量>100"
+  }
+]
