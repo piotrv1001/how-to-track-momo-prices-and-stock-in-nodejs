@@ -1,6 +1,12 @@
 # How to Track Momo Prices and Stock in Node.js
 
+![Momo price and stock monitoring illustration](./images/momo_blog.png)
+
 This example calls our [Momo Listings Scraper](https://apify.com/piotrv1001/momo-listings-scraper) on Apify. It does not implement a scraper from scratch.
+
+![Momo product results in an Apify dataset](./images/momo_results.png)
+
+The screenshot shows a separate, larger iPhone search. Prices and stock reflect that run, not the four-row example below.
 
 ## What this example does
 
